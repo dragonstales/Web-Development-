@@ -1,0 +1,11 @@
+span {
+	color: #ff0000;
+}
+
+div.one span {
+	color: #0000ff;
+}
+
+div.two > span {
+	color: #00ff00;
+}

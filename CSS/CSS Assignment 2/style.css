@@ -1,0 +1,13 @@
+body {
+       background-color: #FF77CC
+ }
+h1 {
+     color: #FF0000;
+     font-family: Impact;
+     font-size: 45px;
+}
+p {
+	color: #CC0000;
+	font-family: Verdana;
+	font-size: 25px;
+}

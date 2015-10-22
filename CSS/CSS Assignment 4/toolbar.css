@@ -1,0 +1,18 @@
+
+#toolbar {
+      border: 1px solid;
+      border-color: #f3f3f3 #bbb #bbb #f3f3f3;
+      padding: .5em;
+      zoom: 1;
+      background-color: #e6f3f7;
+      margin-right: 675px;
+      margin-top: 20px;
+      font-family: Helvetica;
+}
+.nav {
+	  margin-left: -10px;
+}
+
+body {
+    background-color: #eeeeee;
+}

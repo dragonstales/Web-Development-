@@ -1,0 +1,58 @@
+h1 {
+     font-family: Verdana;
+     color: #54ff9f;
+     text-align: center;
+     display: block;
+}
+
+img {
+      width: 300px;
+      height: 200px;
+}
+
+body {
+       font-family: Courier;
+}
+
+        
+th { 
+     font-family: Verdana;
+}
+
+table, td {
+            border: 1px #70b8ff solid;
+            margin: auto;
+}
+
+h3 { 
+     text-decoration: underline;
+}
+
+div {
+      border: 1px #3300CC solid;
+      font-weight: bold;
+      font-family: Tohoma;
+      font-size: 20px;
+      
+}
+
+
+a:hover {
+         background-color: #ffc125;
+}
+
+#first {
+        background-image: url(dw.png);
+}
+
+#rose {
+       background-color: #ffc125;
+}
+
+#amy {
+       background-image: url(tardis.gif);
+}
+
+#clara {
+       background-image: url(cloud.jpg);
+}
